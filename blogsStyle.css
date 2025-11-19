@@ -1,0 +1,25 @@
+*{
+    /* background-color: rgb(230, 122, 122); */
+
+}
+
+.bcef{
+    background-color: rgb(250, 190, 190);
+    padding-left: 2em;
+    margin: 2em 2em;
+    height: 80vh;
+    font-size: 1.2em;
+}
+
+p {
+    margin-bottom: 1em;
+     font-weight: 550;
+}
+
+span{
+    color: rgb(247, 6, 6);
+}
+
+h1{
+    font-size: 1.5em;
+}
